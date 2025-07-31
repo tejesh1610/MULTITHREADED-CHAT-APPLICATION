@@ -10,7 +10,7 @@ A Java-based multithreaded chat system that allows multiple clients to connect t
 - Thread-safe client management
 - Console-based interface
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Java**
 - **Socket Programming**
@@ -21,7 +21,7 @@ A Java-based multithreaded chat system that allows multiple clients to connect t
 ├── ChatServer.java       # Server-side logic ├── ChatClient.java       # Client-side logic ├── README.md             # Project documentation
 
 
-## 📡 How It Works
+##  How It Works
 
 ### Server (`ChatServer.java`)
 - Listens on port `1234` for incoming connections.
